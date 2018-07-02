@@ -1,0 +1,11 @@
+D:\UyumProjects\rest-api\rest-api\bin\Debug\netcoreapp2.0\rest-api.deps.json
+D:\UyumProjects\rest-api\rest-api\bin\Debug\netcoreapp2.0\rest-api.runtimeconfig.json
+D:\UyumProjects\rest-api\rest-api\bin\Debug\netcoreapp2.0\rest-api.runtimeconfig.dev.json
+D:\UyumProjects\rest-api\rest-api\bin\Debug\netcoreapp2.0\rest-api.dll
+D:\UyumProjects\rest-api\rest-api\obj\Debug\netcoreapp2.0\rest-api.csproj.CoreCompileInputs.cache
+D:\UyumProjects\rest-api\rest-api\obj\Debug\netcoreapp2.0\rest-api.AssemblyInfoInputs.cache
+D:\UyumProjects\rest-api\rest-api\obj\Debug\netcoreapp2.0\rest-api.AssemblyInfo.cs
+D:\UyumProjects\rest-api\rest-api\bin\Debug\netcoreapp2.0\rest-api.pdb
+D:\UyumProjects\rest-api\rest-api\obj\Debug\netcoreapp2.0\rest-api.dll
+D:\UyumProjects\rest-api\rest-api\obj\Debug\netcoreapp2.0\rest-api.pdb
+D:\UyumProjects\rest-api\rest-api\obj\Debug\netcoreapp2.0\rest-api.csprojAssemblyReference.cache
